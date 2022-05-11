@@ -111,11 +111,14 @@
 
 /* JUMBOTRON */
 .jumbotron {
-    min-height: 200px;
-    padding: 230px 30px;
+    min-height: 650px;
     color: white;
     background-image: url(../img/jumbo-bg.png);
     background-position: center;
+}
+
+.jumbo-text {
+    margin-top: 300px;
 }
 
 /* RATCHET AND RETURNAL */
