@@ -5,10 +5,6 @@
     font-family: Arial, Helvetica, sans-serif
 }
 
-body {
-    width: 100vw;
-}
-
 /* UTILITIES */
 .btn-black {
     background-color: black;
@@ -25,8 +21,20 @@ body {
     border-style: none;
 }
 
+.btn-blue-reverse {
+    background-color: #d9dadc;
+    color: #2d64e6;
+    padding: 10px;
+    border-radius: 20px;
+    border-style: none;
+}
+
 .padding-sec {
     padding: 50px 0;
+}
+
+.padding-title {
+    padding-bottom: 20px;
 }
 
 .text-center {
@@ -43,6 +51,19 @@ body {
 
 .color-lb {
     color:#0977d0;
+}
+
+.bg-black {
+    background-color: #1f1f1f;
+    color: white;
+}
+
+.bg-grey {
+    background-color: #bebcbb;
+}
+
+.img-contain {
+    max-width: 100%;
 }
 
 /* HEADER */
