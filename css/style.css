@@ -99,7 +99,7 @@ header {
 }
 
 .img-contain {
-    width: 100%;
+    max-width: 100%;
 }
 
 /* HEADER */
@@ -174,12 +174,6 @@ header {
 
 .card-img {
     object-fit: contain;
-}
-
-/* PRODOTTI PS5 */
-.ps5-product {
-    width: 150px;
-    height: auto;
 }
 
 /* IT TAKES TWO */
