@@ -59,6 +59,10 @@ header {
     padding-bottom: 20px;
 }
 
+.padding-capo {
+    padding-right: 80px;
+}
+
 .text-center {
     text-align: center;
 }
@@ -135,6 +139,11 @@ header {
     height: auto;
 }
 
+.service-img-width {
+    width: 300px;
+    height: auto;
+}
+
 .chevron-size {
     width: 10px;
     height: 10px;
@@ -163,13 +172,6 @@ header {
     object-fit: contain;
 }
 
-/* INFO PLAYSTATION 5  */
-.img-fit {
-    min-width: 20px;
-    min-height: 100px;
-    background-color: #0977d0;
-}
-
 /* PRODOTTI PS5 */
 .ps5-product {
     width: 150px;
@@ -178,8 +180,7 @@ header {
 
 /* IT TAKES TWO */
 .takes-two-bg {
-    min-height: 200px;
-    padding: 230px 30px;
+    min-height: 670px;
     color: white;
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
     background-position: center;
