@@ -149,6 +149,10 @@ header {
     height: 10px;
 }
 
+.display-small {
+    display: none;
+}
+
 /* JUMBOTRON */
 .jumbotron {
     min-height: 670px;
