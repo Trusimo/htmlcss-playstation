@@ -11,4 +11,14 @@
     .display-small {
         display: block;
     }
+
+    .ps5-product {
+        width: 100px;
+        height: auto;
+    }
+
+    .logo-game-width {
+        width: 400px;
+        height: auto;
+    }
 }
